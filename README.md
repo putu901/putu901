@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @putu901
 - 👀 I’m interested in mobile development
 - 🌱 I’m currently learning to build Flutter Applications
-- 💞️ I’m looking to collaborate on Flutter Mobile Development Applications for my project
+- 💞️ I’m looking to collaborate on Flutter Mobile Development Applications for my on going project which is Travel App
 - 📫 How to reach me, email me on kusumapt@yahoo.com or DM via WhatApp +628123666288
 
 <!---
